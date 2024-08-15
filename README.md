@@ -71,18 +71,3 @@ Structure du Projet
 
     package.json : Dépendances et scripts du projet.
 
-Contribuer
-
-Les contributions sont les bienvenues ! Veuillez suivre ces étapes pour contribuer :
-
-    Fork le projet.
-    Créez une branche pour votre fonctionnalité : git checkout -b ma-fonctionnalite.
-    Committez vos changements : git commit -am 'Ajoute une nouvelle fonctionnalité'.
-    Poussez la branche : git push origin ma-fonctionnalite.
-    Ouvrez une pull request.
-
-Licence
-
-Ce projet est sous la licence MIT - voir le fichier LICENSE pour plus de détails.
-
-Assurez-vous d'adapter les sections concernant les commandes de clonage et d'installation aux spécificités de votre projet et de votre dépôt.
