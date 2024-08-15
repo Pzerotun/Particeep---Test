@@ -36,7 +36,7 @@ Clonez le dépôt :
 
 Naviguez dans le répertoire du projet :
 
-    cd <NOM_DU_REPERTOIRE>
+    cd movies
 
 Installez les dépendances :
 
@@ -46,7 +46,7 @@ Installez les dépendances :
 
 Pour démarrer l'application en mode développement, utilisez la commande suivante :
 
-npm start
+    npm start
 
 Cela ouvrira l'application dans votre navigateur par défaut à l'adresse http://localhost:3000.
 
