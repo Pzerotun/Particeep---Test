@@ -1,7 +1,6 @@
-Particeep---Test
+# Particeep---Test
 
-Test technique pour Particeep
-Description
+## Description
 
 Ce projet est une application React permettant de gérer et afficher une liste de films avec des fonctionnalités telles que des filtres dynamiques, des boutons d'action, et une pagination. Les films sont affichés dans des cartes avec des boutons pour les actions de like/dislike et de suppression. L'interface est responsive et permet d'ajuster le nombre d'éléments par page.
 Fonctionnalités
@@ -24,41 +23,34 @@ Fonctionnalités
         Boutons Précédent/Suivant pour naviguer entre les pages.
         Choix du nombre d'éléments affichés par page (4, 8 ou 12).
 
-Prérequis
+## Prérequis
 
     Node.js (v14 ou supérieur recommandé)
     npm (v6 ou supérieur recommandé)
 
-Installation
+## Installation
 
-    Clonez le dépôt :
+Clonez le dépôt :
 
-    bash
-
-git clone <URL_DU_DEPOT>
+    git clone <URL_DU_DEPOT>
 
 Naviguez dans le répertoire du projet :
 
-bash
-
-cd <NOM_DU_REPERTOIRE>
+    cd <NOM_DU_REPERTOIRE>
 
 Installez les dépendances :
 
-bash
-
     npm install
 
-Lancer l'application
+## Lancer l'application
 
 Pour démarrer l'application en mode développement, utilisez la commande suivante :
-
-bash
 
 npm start
 
 Cela ouvrira l'application dans votre navigateur par défaut à l'adresse http://localhost:3000.
-Structure du Projet
+
+## Structure du Projet
 
     src/ : Contient les fichiers sources de l'application.
         components/ : Contient les composants React.
